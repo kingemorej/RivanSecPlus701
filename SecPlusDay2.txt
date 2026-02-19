@@ -26,7 +26,7 @@ Ports G1/1 to G1/8 are normal GigabitEthernet ports.
 Use the show version command to determine various aspects of this ASA device.
 ciscoasa# show version
 What software version is this ASA running?
-_______________________________________________________________________________________
+________________________________________________________________________________________
 What is the name of the system image file and from where was it loaded?
 _______________________________________________________________________________________
 _______________________________________________________________________________________
@@ -209,5 +209,6 @@ cd desktop
 cd folder niyo
 git clone https://github.com/rivan16/gophish
 https://github.com/gophish/gophish/releases
+
 
 
